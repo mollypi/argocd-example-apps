@@ -1,5 +1,7 @@
 # ArgoCD Example Apps
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/2bf7de98-d6ba-44d0-97a0-0ad4ef3fb6db.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/argocd-example-apps?orgId=561911742905)  [![CIS](https://app.soluble.cloud/api/v1/public/badges/8a264958-e4cc-4f94-994b-43f9387ade39.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/argocd-example-apps?orgId=561911742905)  [![IaC](https://app.soluble.cloud/api/v1/public/badges/721d90fe-9301-4e3e-9424-4fac0293b166.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/argocd-example-apps?orgId=561911742905)  
+
 This repository contains example applications for demoing ArgoCD functionality. Feel free
 to register this repository to your ArgoCD instance, or fork this repo and push your own commits
 to explore ArgoCD and GitOps!
